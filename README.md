@@ -50,10 +50,8 @@ npx playwright show-report
 1. Console Output
 Screenshot showing successful execution from the Visual Studio Code command line:
 
-### 2. HTML Test Report
+2. HTML Test Report
 Screenshot showing the passed test scenarios in the HTML report:
 
 *(Note: Please verify the images are located in the `screenshots/` folder)*
-
----
 
