@@ -23,7 +23,7 @@ This repository contains the automated testing solution for the technical assess
 ## 🚀 Setup Instructions
 Please follow these steps to set up the environment on your machine.
 1. **Clone the repository:**
-git clone 【https://github.com/wilsonfoo-28/Technical-Test-Assignment.git】
+git clone [https://github.com/wilsonfoo-28/Technical-Test-Assignment.git]
 
 2. **Install Dependencies:**
 npm install
